@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\simple-crud-and-authentication.props" />
+</Project>
